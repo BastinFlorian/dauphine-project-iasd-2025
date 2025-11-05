@@ -152,10 +152,10 @@ Le README.md de votre projet doit détailler :
 - Questions/réponses sur le code et les choix d'architecture
 
 **Déroulement** (environ 15 minutes) :
-1. **Démonstration** (5 min) : Montrer l'application fonctionnelle
-2. **Questions du professeur** (5 min) : Tester votre Agent IA avec de nouvelles questions
-3. **Outil de monitoring** (5 min) : Présenter les traces et métriques (Langfuse/Langsmith/MLflow)
-4. **Discussion technique** (5 min) : Expliquer les choix d'implémentation
+1. **Démonstration**: Montrer l'application fonctionnelle
+2. **Questions du professeur** : Tester votre Agent IA avec de nouvelles questions
+3. **Outil de monitoring**: Présenter les traces et métriques (Langfuse/Langsmith/MLflow)
+4. **Discussion technique** : Expliquer les choix d'implémentation
 
 ## 📊 Critères d'Évaluation
 
@@ -191,6 +191,6 @@ Le README.md de votre projet doit détailler :
 - Exploiter les fichier excels en constituant des outils accessibles au LLM
 - Réaliser une architecture Agentique adaptée pour fournir des réponses pertinentes
 - Evaluer votre agent en utilisant les Questions/Réponses de référence listées dans `evaluation_question.xlsx`
-- Documenter et soigner votre code pour respecter les conventions PEP 8, Flake8, Mypy, Pylint, ou toute bonne pratiques de code
+- Documenter et soigner votre code pour respecter les conventions PEP8, Flake8, Mypy, Pylint, ou toute bonne pratiques de code
 
 **Université Paris Dauphine - IASD 2025-2026**
